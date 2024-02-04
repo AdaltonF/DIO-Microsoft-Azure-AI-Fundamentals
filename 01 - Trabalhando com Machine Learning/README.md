@@ -2,17 +2,17 @@
 
 A seguir, há imagens do passo a passo apresentado no vídeo e na [documentação](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html#create-an-azure-machine-learning-workspace).
 
-Todas as intruções seguidas estão documentadas no link acima.
+Todas as instruções seguidas estão documentadas no link acima.
 
 ## Criando um espaço de trabalho no Azure Machine Learning
 
-Inicialmente, é criado o workspace(espaço de trabalho) no Portal Azure. Podendo ser acessado como na imagem abaixo.
+Inicialmente, é criado o workspace(espaço de trabalho) no Estúdio Machine Learning do Azure, como na imagem abaixo.
 
 ![Imagem 0](../img/01/0.png)
 
 ## Usando ML Automatizado para treinar um modelo
 
-Como o workspace criado, é possível utilizar o ML Automatizado para obter o melhor modelo de acordo com a base de dados fornecida.
+Com o workspace criado, é possível utilizar o ML Automatizado para obter o melhor modelo de acordo com a base de dados fornecida.
 
 ![Imagem 1](../img/01/1.png)
 
@@ -26,7 +26,7 @@ Algumas métricas estão disponíveis para análise de cada modelo. Abaixo, é p
 
 ![Imagem 3](../img/01/3.png)
 
-## Implementado(deploy) o modelo
+## Implementando(deploy) o modelo
 
 Cria um serviço Web para que seja possível utilizar o modelo treinado.
 
