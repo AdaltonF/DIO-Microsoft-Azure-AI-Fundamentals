@@ -1,0 +1,14 @@
+NorthwindTraders
+123MainStreet
+555-123-4567
+2/17/202013:07
+1Apple
+$0.90
+1Orange
+$0.80
+Sub-Total
+$1.70
+Tax
+$0.17
+Total
+$1.87
