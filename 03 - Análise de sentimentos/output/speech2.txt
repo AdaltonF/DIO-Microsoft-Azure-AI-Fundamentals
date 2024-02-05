@@ -1,0 +1,1 @@
+Olá, este é um teste de conversão de fala em texto em tempo real por meio do speak Studio do Azure ei. 
