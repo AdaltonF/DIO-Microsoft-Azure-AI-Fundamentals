@@ -1,4 +1,4 @@
-# Processamento de Linguagem Natura com Azure AI
+# Processamento de Linguagem Natural com Azure AI
 
 Neste desafio de projeto, foram testados dois recursos do Azure AI relacionados a PLN (Processamento de Linguagem Natural), são eles:
 
