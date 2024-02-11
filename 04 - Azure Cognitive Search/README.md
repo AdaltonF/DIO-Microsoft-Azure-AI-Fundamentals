@@ -2,7 +2,7 @@
 
 O Desafio de Projeto foi baseado no seguinte contexto: *Imagine que você trabalhe para a Fourth Coffee, uma rede nacional de cafés. Você é solicitado a ajudar a criar uma solução de mineração de conhecimento que facilite a pesquisa de insights sobre as experiências do cliente. Você decide criar um índice do Azure AI Search usando dados extraídos de avaliações de clientes.*
 
-Após seguir o passo a passo do tutorial disponivel neste [link](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/11-ai-search.html), foram obtidos os seguintes resultados e insights.
+Após seguir o passo a passo do tutorial, disponível neste [link](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/11-ai-search.html), foram obtidos os seguintes resultados e insights.
 
 ## Exemplos de buscas
 
